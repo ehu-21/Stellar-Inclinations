@@ -1,0 +1,60 @@
+Star.ini_Files\UCAC3 281-150921
+Star.ini_Files\Kepler-1651
+Star.ini_Files\KIC 4381741
+Star.ini_Files\Kepler-411
+Star.ini_Files\KIC 5960966
+Star.ini_Files\KOI-5792
+Star.ini_Files\HD 183204
+Star.ini_Files\KOI-2295
+Star.ini_Files\KOI-3179
+Star.ini_Files\KIC 1866535
+Star.ini_Files\KOI-3208
+Star.ini_Files\2MASS J19284396+4112456
+Star.ini_Files\KOI-102
+Star.ini_Files\KOI-2219
+Star.ini_Files\KIC 5177193
+Star.ini_Files\KOI-1808
+Star.ini_Files\KOI-2848
+Star.ini_Files\KIC 9905724
+Star.ini_Files\Kepler-795
+Star.ini_Files\KIC 9216773
+Star.ini_Files\KOI-2469
+Star.ini_Files\KOI-2248
+Star.ini_Files\KIC 5470396
+Star.ini_Files\KOI-4961
+Star.ini_Files\Kepler-191
+Star.ini_Files\KOI-1901
+Star.ini_Files\Kepler-1531
+Star.ini_Files\Kepler-1327
+Star.ini_Files\Kepler-985
+Star.ini_Files\KOI-644
+Star.ini_Files\KOI-4480
+Star.ini_Files\Kepler-420
+Star.ini_Files\Kepler-257
+Star.ini_Files\KIC 9913134
+Star.ini_Files\Kepler-990
+Star.ini_Files\KOI-3172
+Star.ini_Files\KOI-3214
+Star.ini_Files\KOI-1118
+Star.ini_Files\KIC 4375925
+Star.ini_Files\Kepler-633
+Star.ini_Files\KOI-4978
+Star.ini_Files\KOI-3891
+Star.ini_Files\Kepler-1093
+Star.ini_Files\Kepler-108
+Star.ini_Files\Kepler-460
+Star.ini_Files\KIC 5714912
+Star.ini_Files\KOI-7605
+Star.ini_Files\KIC 5702872
+Star.ini_Files\2MASS J19341016+3846566
+Star.ini_Files\KIC 10117599
+Star.ini_Files\TYC 3120-376-1
+Star.ini_Files\KIC 10091543
+Star.ini_Files\KOI-2474
+Star.ini_Files\KIC 2859701
+Star.ini_Files\KOI-4273
+Star.ini_Files\KOI-113
+Star.ini_Files\KOI-3474
+Star.ini_Files\Kepler-476
+Star.ini_Files\TYC 3562-1551-1
+Star.ini_Files\KIC 6628539
